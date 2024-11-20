@@ -1,0 +1,23 @@
+body {
+  background: url("../assets/pictures/hero-bg-img.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* background-attachment: fixed; */
+}
+
+header {
+}
+
+.otprazdnuyte {
+  background-image: "../assets/pictures/otprazdnuyte-bg-img.svg";
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.nashe-menu {
+  background-image: url("../assets/pictures/nashe-menu-bg-img.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
